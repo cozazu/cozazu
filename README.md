@@ -1,11 +1,12 @@
 ## Hi there 👋
 
+```js
 const cozazu = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Node, Styled-Components, tailwind]
 }
-
+```
 <!--
 **cozazu/cozazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
