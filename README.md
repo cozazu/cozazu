@@ -3,8 +3,7 @@
 const cozazu = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Styled-Components, tailwind],
-  architecture: ["microservices", "event-driven", "design system pattern"]
+  tools: [React, Node, Styled-Components, tailwind]
 }
 
 <!--
