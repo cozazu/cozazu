@@ -1,13 +1,11 @@
 ## Hi there 👋
 
-<div class="flex items-center p-4 bg-gray-800 text-white">
-  <img src="https://github.com/ArisGuimera.png" alt="GitHub Avatar" class="w-24 h-24 rounded-full mr-4">
-  <div>
-    <h1 class="text-3xl font-bold mb-1">Tu Nombre de Usuario</h1>
-    <p class="text-lg">Tu biografía o descripción aquí</p>
-    <a href="https://github.com/TuUsuario" class="inline-block mt-2 px-4 py-2 bg-blue-600 text-white rounded">Seguir en GitHub</a>
-  </div>
-</div>
+const cozazu = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Styled-Components, tailwind],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
 
 <!--
 **cozazu/cozazu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
