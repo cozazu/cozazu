@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Julian.
+
+![Diseño_sin_título-removebg-preview](https://github.com/cozazu/cozazu/assets/144566319/a2eaf144-08e0-4495-bb78-63fb6f68bb11)
 
 ```js
 const cozazu = {
