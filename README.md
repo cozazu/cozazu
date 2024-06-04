@@ -16,7 +16,6 @@ Hello everyone! As a programmer, adaptability and self-management are essential 
 ## Recent projects.
 - Registration for IING (Banking) for User Management and Scheduling: <a href="https://github.com/cozazu/BankingApp-React" target="_blank">https://github.com/cozazu/BankingApp-React </a>
 - An app for an e-commerce platform frontend. <a>https://github.com/cozazu/TechApp-React </a>
-- I made a full-stack application for managing appointments. <a> https://github.com/Nicolaserd/Gestionturnos.git </a>
 
 ## Pending projects
 - An application for sending WhatsApp messages and integrating an AI chatbot.
