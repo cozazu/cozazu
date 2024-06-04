@@ -6,7 +6,6 @@
   </a>
 </div>
 
-
 ## Introduction
 
 Hello everyone! As a programmer, adaptability and self-management are essential to me. I approach every challenge with energy and determination, viewing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused enables me to build solid, user-friendly solutions, driving technological advancement forward.
