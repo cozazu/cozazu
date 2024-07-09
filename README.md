@@ -10,8 +10,14 @@
 
 Hello everyone! As a programmer, adaptability and self-management are essential to me. I approach every challenge with energy and determination, viewing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused enables me to build solid, user-friendly solutions, driving technological advancement forward.
 
-## I’m currently working on 
--  I’m currently working on an application to connect companies with coworkings (frontend)
+## Flagship project 
+-  COCO+ is the latest project I have developed with a group of peers as part of our graduation project at the academy. This project aims to create a platform that allows affiliated companies to offer their remote employees the opportunity to connect with coworking spaces and use them for their daily work.
+
+The application provides a comprehensive solution for various users, including employees, coworking space owners, company managers, and platform administrators. Its functionalities include reservation management, user activation and blocking, ticketing system, review system, geolocation, among others.
+
+<a href="coco-plus-front" target="_blank">https://github.com/cozazu/coco-plus-front </a>
+<a href="coco-plus-back" target="_blank">https://github.com/cozazu/coco-plus-back </a>
+
 
 ## Recent projects.
 - Registration for IING (Banking) for User Management and Scheduling: <a href="https://github.com/cozazu/BankingApp-React" target="_blank">https://github.com/cozazu/BankingApp-React </a>
