@@ -5,7 +5,7 @@
     <img src="https://github.com/cozazu/cozazu/assets/144566319/a2eaf144-08e0-4495-bb78-63fb6f68bb11" height="360" alt="Diseño sin título">
   </a>
   <video width="100%" height="auto" controls>
-    <source src="https://youtube.com/shorts/CCFkCylQhgs?feature=share" type="video/mp4">
+    <source src="https://youtube.com/shorts/lRbVdz_MyTE?feature=share" type="video/mp4">
   </video>
 </div>
 
