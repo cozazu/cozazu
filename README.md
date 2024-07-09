@@ -44,4 +44,4 @@ The application provides a comprehensive solution for various users, including e
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozazu&show_icons=true&theme=dark&locale=es&layout=compact" alt="cozazu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cozazu&show_icons=true&theme=dark&locale=es" alt="cozazu" /></p>
+
