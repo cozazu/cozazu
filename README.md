@@ -15,8 +15,8 @@ Hello everyone! As a programmer, adaptability and self-management are essential 
 
 The application provides a comprehensive solution for various users, including employees, coworking space owners, company managers, and platform administrators. Its functionalities include reservation management, user activation and blocking, ticketing system, review system, geolocation, among others.
 
-<a href="coco-plus-front" target="_blank">https://github.com/cozazu/coco-plus-front </a>
-<a href="coco-plus-back" target="_blank">https://github.com/cozazu/coco-plus-back </a>
+- <a href="coco-plus-front" target="_blank">https://github.com/cozazu/coco-plus-front </a>
+- <a href="coco-plus-back" target="_blank">https://github.com/cozazu/coco-plus-back </a>
 
 
 ## Recent projects.
