@@ -1,10 +1,6 @@
 <h1 align="center">Hello, I'm Julian.</h1>
 
 <div align="center">
-  <a href="https://ossinsight.io">
-    <img src="https://github.com/cozazu/cozazu/assets/144566319/a2eaf144-08e0-4495-bb78-63fb6f68bb11" height="360" alt="Diseño sin título">
-  </a>
-  <br>
   <iframe width="560" height="315" src="https://youtube.com/shorts/lRbVdz_MyTE?feature=share" frameborder="0" allowfullscreen></iframe>
 </div>
 
