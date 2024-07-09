@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Hello everyone! As a programmer, adaptability and self-management are essential to me. I approach every challenge with energy and determination, viewing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused enables me to build solid, user-friendly solutions, driving technological advancement forward.
+Hello everyone! Es crucial tackle complex problems with creativity and efficiency. I'm passionate about taking on challenges and devising innovative solutions through logical analysis and creativity. I enjoy exploring diverse ways to meet needs, crafting functional and elegant solutions. I thrive in teamwork, am creative, and communicate ideas clearly.
 
 ## Flagship project 
 COCO+ is the latest project I have developed with a group of peers as part of our graduation project at the academy. This project aims to create a platform that allows affiliated companies to offer their remote employees the opportunity to connect with coworking spaces and use them for their daily work.
