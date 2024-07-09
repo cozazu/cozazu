@@ -1,10 +1,5 @@
 <h1 align="center">Hello, I'm Julian.</h1>
 
-<div align="center">
-  <iframe width="560" height="315" src="https://youtube.com/shorts/lRbVdz_MyTE?feature=share" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
 #### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
