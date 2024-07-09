@@ -23,5 +23,9 @@ Hello everyone! As a programmer, adaptability and self-management are essential 
 ## Contact me
 
 <a href="https://www.linkedin.com/in/juli%C3%A1n-aranzazu-95837a207/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
 </a>
+<a href="mailto:aranzazuarcila@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
+</a>
+
