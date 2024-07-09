@@ -4,10 +4,10 @@
   <a href="https://ossinsight.io">
     <img src="https://github.com/cozazu/cozazu/assets/144566319/a2eaf144-08e0-4495-bb78-63fb6f68bb11" height="360" alt="Diseño sin título">
   </a>
-  <video width="100%" height="auto" controls>
-    <source src="https://youtube.com/shorts/lRbVdz_MyTE?feature=share" type="video/mp4">
-  </video>
+  <br>
+  <iframe width="560" height="315" src="https://youtube.com/shorts/lRbVdz_MyTE?feature=share" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 #### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
