@@ -26,6 +26,6 @@ Hello everyone! As a programmer, adaptability and self-management are essential 
   <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" style="height: 20px;"/>
 </a>
 <a href="mailto:aranzazuarcila@gmail.com" target="_blank">
-  <img src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" style="height: 20px;"/>
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" style="height: 20px;"/>
 </a>
 
