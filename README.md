@@ -11,7 +11,7 @@
 Hello everyone! As a programmer, adaptability and self-management are essential to me. I approach every challenge with energy and determination, viewing them as opportunities to innovate and grow. My ability to adjust to changes and stay focused enables me to build solid, user-friendly solutions, driving technological advancement forward.
 
 ## Flagship project 
--  COCO+ is the latest project I have developed with a group of peers as part of our graduation project at the academy. This project aims to create a platform that allows affiliated companies to offer their remote employees the opportunity to connect with coworking spaces and use them for their daily work.
+COCO+ is the latest project I have developed with a group of peers as part of our graduation project at the academy. This project aims to create a platform that allows affiliated companies to offer their remote employees the opportunity to connect with coworking spaces and use them for their daily work.
 
 The application provides a comprehensive solution for various users, including employees, coworking space owners, company managers, and platform administrators. Its functionalities include reservation management, user activation and blocking, ticketing system, review system, geolocation, among others.
 
