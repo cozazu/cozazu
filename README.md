@@ -5,9 +5,8 @@
     <img src="https://github.com/cozazu/cozazu/assets/144566319/a2eaf144-08e0-4495-bb78-63fb6f68bb11" height="360" alt="Diseño sin título">
   </a>
   <video width="100%" height="auto" controls>
-  <source src="https://drive.google.com/file/d/1zhaBOZykEkOAuc2r_eAo4oPGGg4WI9Ye/view?usp=sharing" type="video/mp4">
-</video>
-
+    <source src="https://drive.google.com/file/d/1zhaBOZykEkOAuc2r_eAo4oPGGg4WI9Ye/view?usp=sharing" type="video/mp4">
+  </video>
 </div>
 
 #### Lenguajes de Programación
