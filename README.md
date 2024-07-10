@@ -33,7 +33,7 @@ The application provides a comprehensive solution for various users, including e
 - An application for sending WhatsApp messages and integrating an AI chatbot.
 
 ## Contact me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juli%C3%A1n-aranzazu-95837a207/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-aranzazu-95837a207/)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aranzazuarcila@gmail.com)
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozazu&show_icons=true&theme=dark&locale=es&layout=compact" alt="cozazu" /></p>
